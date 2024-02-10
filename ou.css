@@ -47,17 +47,18 @@
 
 
 .card1 img{
-  height: 110px;
+  height: 100px;
   
 }
 
 .card1{
 display: inline-block;
  text-align: center;
- padding: 10px;
+ padding: 3px;
+ padding: 5px;
  box-shadow: 0 0 1px rgb(31, 153, 13);
- 
- margin: 5px;
+
+ margin: 2px;
 }
 btn{
   padding: 5px;
